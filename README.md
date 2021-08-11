@@ -1,5 +1,5 @@
 # InstagramAutomation
-This project gives the features of basic instagram Automation
+This project gives the features of basic Instagram Automation.
 
 Features:-
 <br/>
