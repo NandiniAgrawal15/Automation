@@ -1,14 +1,9 @@
 # InstagramAutomation
-This project gives the features of basic Instagram Automation.
-
+The project is build using Selenium Library and various concepts of Python.
+</br>
 Features:-
-<br/>
-1. Login 
-2. Liking top 5 or any n number of posts. 
-3. Saving top 5 or any n number of posts. 
-4. Sending single of loop of same message to a person.
-
-Package Used:-
-<br/>
-
-Selenium
+</br>
+1. It incorporates features of Automatic Login.
+2. It permits automatic Like and Save of the posts.
+3. It automates the searching of a user's id.
+4. It automates the message sending to a user.
